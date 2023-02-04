@@ -1,0 +1,6 @@
+{
+  "appId": "com.scanqr.app",
+  "appName": "ScannerQR",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

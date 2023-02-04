@@ -1,4 +1,5 @@
 <template>
+  
   <div class="h-screen colorBg">
     <div class="grid grid-rows-2 gap-none">
 
@@ -8,14 +9,17 @@
 
       <div class="col-span-4 flex items-center justify-center">
         <img class="w-64" src="~/assets/image.png" alt="image" />
+       
       </div>
-
+      <div class="pt-10 col-span-4 flex items-center justify-center">
+        <v-btn class="font-bold text-black shadow-lg" href="scanqr"> <span class="font-extrabold">Scan QR Code</span> </v-btn>
+      </div>
       <div class="col-span-4 flex items-center justify-center">
           <NavBottom> </NavBottom>
       </div>
 
     </div>
-
+    
   </div>
 
 </template>

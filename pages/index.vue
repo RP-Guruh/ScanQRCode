@@ -12,7 +12,7 @@
        
       </div>
       <div class="pt-10 col-span-4 flex items-center justify-center">
-        <v-btn class="font-bold text-black shadow-lg" href="scanqr"> <span class="font-extrabold">Scan QR Code</span> </v-btn>
+        <v-btn class="font-bold text-black shadow-xl" href="scanqr"> <span class="font-extrabold">Scan QR Code</span> </v-btn>
       </div>
       <div class="col-span-4 flex items-center justify-center">
           <NavBottom> </NavBottom>

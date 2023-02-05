@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   nitro: {
     preset: 'vercel-edge',
   },
-  modules: ['@nuxtjs/color-mode'],
+  //modules: ['@nuxtjs/color-mode'],
   css: ["~/assets/css/main.css", "vuetify/lib/styles/main.sass"],
   build: {
     transpile: ["vuetify"],

@@ -1,6 +1,6 @@
 <template>
   
-  <div class="h-screen colorBg">
+  <div class="h-screen">
     <div class="grid grid-rows-2 gap-none">
 
       <div class="col-span-4 flex items-center justify-center">
